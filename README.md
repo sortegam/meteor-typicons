@@ -1,11 +1,11 @@
 Meteor Typicons
 ===============
 
-Typicons CSS icons - 336 pixel perfect, all-purpose vector icons.
+[Typicons CSS icons](http://typicons.com) - 336 pixel perfect, all-purpose vector icons.
 Created by Stephen Hutchings © 2014
-Packed for MeteorJS by [@sortegam](http://www.twitter.com/sortegam)
 
-[Typicons](http://typicons.com) packaged for [Meteor](http://meteor.com).
+Packaged for [MeteorJS](http://meteor.com) by [@sortegam](http://www.twitter.com/sortegam)
+
 
 ### Installation
 
