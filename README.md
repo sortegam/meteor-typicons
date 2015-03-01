@@ -17,6 +17,6 @@ $ meteor add sortegam:typicons
 
 ### ChangeLog 
 
-(In order to avoid misunderstandings we are using same version as Typicons)
+(In order to avoid misunderstandings we are using same Typicons version in this package)
 
 - 2015/02/28 - (v2.0.6 Typicons) - Initial Typicons integration with Meteor.
